@@ -1,7 +1,5 @@
 # PictureShapedWindow
-Qt example: a window shaped after the background image file (PNG with transparent parts).
-
-A non-rectangular window example.
+Qt example: a non-rectangular window.
 The shape follows that of a background image file (PNG with transparent parts).
 Controls: mouse drag (only for non-transparent areas), exit by the context menu.
 
